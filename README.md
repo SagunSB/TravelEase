@@ -109,4 +109,3 @@ src/
 
 ## Author
 **Sagun Kumar Behera**
-This project is developed for educational and academic purposes.
